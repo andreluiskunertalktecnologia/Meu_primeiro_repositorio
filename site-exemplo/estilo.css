@@ -1,0 +1,21 @@
+marquee{
+    font-size: 39px;
+     font-family: Arial, Helvetica, sans-serif;
+      color: black;
+}
+.cabeca{
+     font-size: 35px;
+      font-family: Arial, Helvetica, sans-serif;
+        color: black;
+    }
+    .corpo{
+           font-size: 32px;
+             font-family: Arial, Helvetica, sans-serif;
+              color: black;
+    }
+    .rodape{
+            font-size: 35px;
+             font-family: Arial, Helvetica, sans-serif;
+              color: black;
+    }
+    
